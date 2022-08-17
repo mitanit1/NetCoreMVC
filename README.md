@@ -1,1 +1,2 @@
 # NetCoreMvc
+Edit from github
